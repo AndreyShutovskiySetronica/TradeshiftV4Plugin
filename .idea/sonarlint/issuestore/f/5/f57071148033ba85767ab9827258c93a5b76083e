@@ -1,0 +1,9 @@
+
+usquid:S1994"YThis loop's stop condition tests "n1, input, buffer" but the incrementer updates "count".(İà‚œ8å¹û¿ì+
+bsquid:S1226"FIntroduce a new variable instead of reusing the parameter "numToSkip".(ïÊ‘ğ8å¹û¿ì+
+Asquid:S1166"%Either log or rethrow this exception.(íŞì„8å¹û¿ì+
+bsquid:S1226"FIntroduce a new variable instead of reusing the parameter "numToSkip".(Ğ«á’8å¹û¿ì+
+Rsquid:S1068"1Remove this unused "SKIP_BUF_SIZE" private field.(’©şÿÿÿÿ8å¹û¿ì+
+Msquid:S1068"1Remove this unused "COPY_BUF_SIZE" private field.(¡ŞÏ±8å¹û¿ì+
+Gsquid:S1481"&Remove this unused "x" local variable.(Æ®‘±ÿÿÿÿÿ8å¹û¿ì+
+Bsquid:S1481"&Remove this unused "n" local variable.(¸åÏñ8å¹û¿ì+

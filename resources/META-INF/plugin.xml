@@ -1,0 +1,18 @@
+<idea-plugin version="2">
+    <id>tradeshift.v4.plugin</id>
+    <name>Tradeshift V4 Application plugin</name>
+    <version>1.0</version>
+    <vendor email="ans@tradeshift.com" url="http://tradeshift.com">tradeshift</vendor>
+    <description>Tradeshift V4 Application plugin</description>
+    <idea-version since-build="145.0"/>
+
+    <actions>
+        <action id="TradeshiftV4ActionID" class="com.tradeshift.plugin.TradeshiftV4Action"
+                text="Tradeshift V4 Application"
+                description="Tradeshift V4 Application">
+            <add-to-group group-id="NewProjectOrModuleGroup" anchor="last"/>
+            <add-to-group group-id="NewGroup" anchor="last"/>
+        </action>
+    </actions>
+
+</idea-plugin>

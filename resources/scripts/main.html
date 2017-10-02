@@ -1,0 +1,20 @@
+<div class="container" ng-controller="main">
+    <div class="content-left">
+        <form data-ts="Form">
+            <button
+                    loading-progress-bar="isLoading"
+                    ng-show="true"
+                    data-ts="Button" class="ts-primary call-api-button"
+                    >
+                <span>Tradeshift Demo Application in one click</span>
+            </button>
+        </form>
+    </div>
+
+    <div class="content-right">
+        <div class="welcome-screen" ng-hide="isReady()">
+            <h1>Tradeshift Demo Application in one click</h1>
+        </div>
+
+    </div>
+</div>
